@@ -12,7 +12,7 @@
 // @grant        unsafewindow
 // ==/UserScript==
 
-alert("if Aimbot doesn't work first time, reload page, or go into a new krunker.io server")
+alert("if Aimbot doesn't work first time, reload page, or go into a new krunker.io server.")
 //Hub change
 document.title = "DEV: Gpy-Dev";
 document.getElementById("instructions").style.color = "Yellow";
